@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica 4 | Oliver</string>
+    <string name="btnComenzar">Comenzar a dibujar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnVolver">Inicio</string>
+</resources>
